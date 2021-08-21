@@ -30,10 +30,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<a href= “https://imgur.com/a/mAvjMd3.gif” > <img src='http://i.imgur.com/a/mAvjMd3.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<a href= 'https://imgur.com/a/mAvjMd3.gif' > <img src='http://i.imgur.com/a/mAvjMd3.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-    <blockquote class="imgur-embed-pub" lang="en" data-id="a/mAvjMd3"  ><a href="//imgur.com/a/mAvjMd3">TIP CALCULATOR</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-    
     
 GIF created with [imgur](http://www.imgur.com.)
 
