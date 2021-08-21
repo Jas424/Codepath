@@ -2,7 +2,7 @@
 
 TIP ME is a tip calculator application for iOS.
 
-Submitted by: Jaspreet SinghCancel changes
+Submitted by: Jaspreet Singh
 
 Time spent: 3 hours spent in total
 
@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/a/mAvjMd3.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/la/mAvjMd3.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [imgur](http://www.imgur.com.)
 
