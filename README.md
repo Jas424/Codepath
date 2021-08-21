@@ -32,7 +32,7 @@ Here's a walkthrough of implemented user stories:
 
 <a href= 'https://imgur.com/a/mAvjMd3.gif' > <img src='http://i.imgur.com/a/mAvjMd3.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-![](https://imgur.com/a/mAvjMd3.gif)
+![GIF](https://imgur.com/a/mAvjMd3.gif)
     
 GIF created with [imgur](http://www.imgur.com.)
 
