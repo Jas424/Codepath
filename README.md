@@ -38,7 +38,7 @@ GIF created with [imgur](http://www.imgur.com.)
 
 Describe any challenges encountered while building the app.
 
-I was having trouble making all of the digits of the totals appear the first time I ran the build. I was able to fix this by adjusting the width of the table.
+I was having trouble making all of the digits of the totals appear the first time I ran the build. I was able to fix this by adjusting the width of the label.
 
 ## License
 
