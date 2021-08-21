@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![]( https://imgur.com/a/mAvjMd3.gif )
+![]('https://imgur.com/a/mAvjMd3.gif')
 
 GIF created with [imgur](http://www.imgur.com.)
 
